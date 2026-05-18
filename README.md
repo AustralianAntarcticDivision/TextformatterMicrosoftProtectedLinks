@@ -14,8 +14,8 @@ If you instead would prefer to hook the page save and permenently update any pro
 
 ## Installing
 
-This module is installed just like any other ProcessWire module: copy or clone the directory containing this module to your /site/modules/ directory, log in, go to Admin > Modules, click "Check for new modules", and install "Replace Outlook Protected Links" from the TextFormatter category.
+This module is installed just like any other ProcessWire module: copy or clone the directory containing this module to your /site/modules/ directory, log in, go to Admin > Modules, click "Check for new modules", and install "Replace Microsoft Protected Links" from the TextFormatter category.
 
 ## How to use
 
-After installing this module, enable the 'Replace Microsoft Protected Links' TextFormatter on any text/textarea fields required under the 'details' tab.
+After installing this module, enable the "Replace Microsoft Protected Links" TextFormatter on any text/textarea fields required under the 'details' tab.
