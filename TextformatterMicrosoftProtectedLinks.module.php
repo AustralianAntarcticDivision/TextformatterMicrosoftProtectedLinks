@@ -17,9 +17,9 @@ class TextformatterMicrosoftProtectedLinks extends Textformatter implements Modu
 
 	public static function getModuleInfo() {
 		return [
-			'title' => 'Replace Microsoft Protected Links',
+			'title' => 'Microsoft Protected Links Text Formatter',
 			'version' => '101',
-			'summary' => 'Replace protected links from Outlook/Teams/Microsoft Office with the original link.',
+			'summary' => 'Replace protected links from Outlook/Teams/Microsoft Office with the original link on output.',
 			'author' => 'Australian Antarctic Division',
 			'icon' => 'link',
 		];
