@@ -18,4 +18,4 @@ This module is installed just like any other ProcessWire module: copy or clone t
 
 ## How to use
 
-After installing this module, enable the 'Replace Outlook Protected Links' TextFormatter on any text/textarea fields required under the 'details' tab.
+After installing this module, enable the 'Replace Microsoft Protected Links' TextFormatter on any text/textarea fields required under the 'details' tab.
